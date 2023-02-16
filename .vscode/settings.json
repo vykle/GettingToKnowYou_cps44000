@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7454772c-8cc3-40b3-8eb2-9ebbe8ad033c/AppServices/subscriptions/7454772c-8cc3-40b3-8eb2-9ebbe8ad033c/resourceGroups/VyKLe-GettingToKnowEachOther-rg/providers/Microsoft.Web/sites/VyKLe-GettingToKnowEachOther",
+    "appService.deploySubpath": "."
+}
